@@ -6,7 +6,12 @@
       <stop offset="65%" stop-color="#1E1B4B"/>
       <stop offset="100%" stop-color="#0B1020"/>
     </linearGradient>
+    <clipPath id="round">
+      <rect x="0" y="0" width="1000" height="120" rx="12" ry="12"/>
+    </clipPath>
   </defs>
-  <rect width="1000" height="120" fill="url(#bg)"/>
-  <path d="M0 35 C130 75 250 80 380 50 C530 15 650 15 770 45 C875 72 940 75 1000 55 L1000 0 L0 0 Z" fill="#0B1020" opacity="0.8"/>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="120" fill="url(#bg)"/>
+    <path d="M0 35 C130 75 250 80 380 50 C530 15 650 15 770 45 C875 72 940 75 1000 55 L1000 0 L0 0 Z" fill="#0B1020" opacity="0.8"/>
+  </g>
 </svg>
