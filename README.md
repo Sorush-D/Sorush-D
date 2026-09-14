@@ -6,12 +6,12 @@
 
 `Learning`  ·  `Building`  ·  `Exploring`
 
-<br><br>
+<br>
 
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EDE9FE)](mailto:sorush195@gmail.com)
- 
+ &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=EDE9FE)](https://github.com/Sorush-D)
- 
+ &nbsp;
 [![INNOVA GAMES](https://img.shields.io/badge/INNOVA%20GAMES-0F172A?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/INNOVA-GAMES)
 
 </div>
@@ -50,8 +50,6 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 &nbsp;
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 
-<br/>
-
 ### `Tools & Technologies`
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,8 +57,6 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 &nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-
-<br/>
 
 ### `Exploring`
 
@@ -72,8 +68,6 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 &nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<br/>
-
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 &nbsp;
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
@@ -81,8 +75,6 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
-
-<br/>
 
 ### `Familiar With`
 
@@ -150,9 +142,9 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 | Certificate                                                                                                                                                             |        Institution        |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
-| **[CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/78d03610-40c2-4e44-a858-57dbb71f27bd)**                                        | Harvard University · CS50 |
-| **[CS50's Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/fbfd9e91-42a5-4293-8e4d-e877129ee1b6.pdf?size=letter)**                     | Harvard University · CS50 |
 | **[AI/ML in Precision Medicine](https://dataocean.stanford.edu/verify-certificate/a6e7d7bcf68146dfb73e6705981a2449?sig=1.URrjFkaVhGJoDhCSDTVCcgIovhi2UlxI22oFy5kJqA4)** |    Stanford University    |
+| **[CS50's Introduction to Artificial Intelligence with Python](https://certificates.cs50.io/fbfd9e91-42a5-4293-8e4d-e877129ee1b6.pdf?size=letter)**                     | Harvard University · CS50 |
+| **[CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/78d03610-40c2-4e44-a858-57dbb71f27bd)**                                        | Harvard University · CS50 |
 
 </div>
 
