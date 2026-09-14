@@ -152,6 +152,10 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 <div align="center">
 
+![](https://github-readme-stats.shion.dev/api?username=Sorush-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sorush-D&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sorush-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 <p>
   <img
     src="https://raw.githubusercontent.com/Sorush-D/Sorush-D/output/github-snake-dark.svg"
@@ -159,10 +163,6 @@ Exploring game development with **Unity**, learning how programming, systems, ga
     alt="GitHub contribution activity"
   />
 </p>
-
-![](https://github-readme-stats.shion.dev/api?username=Sorush-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sorush-D&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SorushD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
