@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1E1B4B,75:312E81,100:4C1D95&height=180&section=header&text=SORUSH&fontSize=52&fontColor=EDE9FE&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Exploring%20AI%20%26%20Game%20Development&descSize=16&descAlignY=60&descColor=A5B4FC"/>
+<img src="./assets/header.svg" width="100%" alt="Sorush"/>
 
 <br>
 
-`Learning`  ·  `Building`  ·  `Exploring`
+`Learning`  ·  `Building`  ·  `Exploring`
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square\&logo=gmail\&logoColor=EDE9FE)](mailto:sorush195@gmail.com)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square\&logo=github\&logoColor=EDE9FE)](https://github.com/Sorush-D)
- 
-[![INNOVA GAMES](https://img.shields.io/badge/INNOVA%20GAMES-0F172A?style=flat-square\&logo=github\&logoColor=A78BFA)](https://github.com/INNOVA-GAMES)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EDE9FE)](mailto:sorush195@gmail.com)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=EDE9FE)](https://github.com/Sorush-D)
+ 
+[![INNOVA GAMES](https://img.shields.io/badge/INNOVA%20GAMES-0F172A?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/INNOVA-GAMES)
 
 </div>
 
@@ -162,19 +162,13 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sorush-D&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=818CF8&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" height="150"/>
-
-   
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sorush-D&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=94A3B8&langs_count=6" height="150"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sorush-D&bg_color=00000000&color=94A3B8&line=6366F1&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
+<p>
+  <img
+    src="https://raw.githubusercontent.com/Sorush-D/Sorush-D/output/github-snake-dark.svg"
+    width="92%"
+    alt="GitHub contribution activity"
+  />
+</p>
 
 </div>
 
@@ -192,6 +186,6 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:312E81,65:1E1B4B,100:0B1020&height=120&section=footer"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
