@@ -182,14 +182,6 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 <div align="center">
 
-### `Keep learning. Keep building.`
-
-<br>
-
-<sub>— Sorush</sub>
-
-<br><br>
-
 <img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
