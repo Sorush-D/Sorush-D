@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### `Languages` 💻
+### 💻 `Languages`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 &nbsp;
@@ -58,7 +58,7 @@
 &nbsp;
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 
-### `Tools & Technologies` 🧰
+### 🧰 `Tools & Technologies`
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 &nbsp;
@@ -66,7 +66,7 @@
 &nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-### `Exploring` 🔭
+### 🔭 `Exploring`
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 &nbsp;
@@ -84,7 +84,7 @@
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-### `Familiar With` 📚
+### 📚 `Familiar With`
 
 ![Network%2B](https://img.shields.io/badge/Network%2B-555555?style=flat)
 
