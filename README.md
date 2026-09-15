@@ -116,6 +116,8 @@ Building a stronger foundation in AI and gradually moving from concepts and expe
 
 Exploring game development with **Unity**, learning how programming, systems, gameplay, and creative work come together to build interactive experiences.
 
+<br>
+
 </td>
 </tr>
 </table>
