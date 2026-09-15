@@ -18,13 +18,23 @@
 
 ---
 
-## `01` · About
+## `01` · 👋 About
 
-I'm a **Computer Engineering student** currently exploring the world of software development and finding my direction through hands-on learning.
+🎓 **Computer Engineering Student** exploring the world of software development through hands-on learning.
 
-My current focus is gradually moving toward **Artificial Intelligence** and **Game Development**, while strengthening my foundations in programming, mathematics, data, and computer science.
+💻 Currently strengthening my foundations in:
 
-I'm also building and exploring projects through **[INNOVA GAMES](https://github.com/INNOVA-GAMES)**, a space for my game development journey and experiments.
+* 🧠 **Computer Science & Programming**
+* 📐 **Mathematics & Data**
+* 🤖 **Artificial Intelligence**
+* 🎮 **Game Development**
+
+🚀 I'm gradually finding my direction by **building projects, experimenting with new technologies, and learning by doing.**
+
+🎮 Building and exploring game development projects through **[INNOVA GAMES](https://github.com/INNOVA-GAMES)**.
+
+📚 Always learning. Always building. Always experimenting.
+
 
 <br>
 
@@ -36,11 +46,11 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 
 ---
 
-## `02` · Tech Stack
+## `02` · 🛠️ Tech Stack
 
 <div align="center">
 
-### `Languages`
+### `Languages` 💻
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 &nbsp;
@@ -48,7 +58,7 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 &nbsp;
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 
-### `Tools & Technologies`
+### `Tools & Technologies` 🧰
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 &nbsp;
@@ -56,7 +66,7 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 &nbsp;
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-### `Exploring`
+### `Exploring` 🔭
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 &nbsp;
@@ -74,7 +84,7 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-### `Familiar With`
+### `Familiar With` 📚
 
 ![Network%2B](https://img.shields.io/badge/Network%2B-555555?style=flat)
 
@@ -82,7 +92,7 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 
 ---
 
-## `03` · Currently Learning
+## `03` · 🧭 Currently Learning
 
 <div align="center">
 
@@ -90,7 +100,7 @@ I'm also building and exploring projects through **[INNOVA GAMES](https://github
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 <br>
 
@@ -100,7 +110,7 @@ Building a stronger foundation in AI and gradually moving from concepts and expe
 
 <td width="50%" valign="top">
 
-### ◈ Game Development
+### 🎮 Game Development
 
 <br>
 
@@ -114,7 +124,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `04` · Projects
+## `04` · 🚀 Projects
 
 <div align="center">
 
@@ -134,7 +144,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `05` · Certifications
+## `05` · 🏆 Certifications
 
 <div align="center">
 
@@ -148,7 +158,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `06` · GitHub Activity
+## `06` · 📊 GitHub Activity
 
 <div align="center">
 
