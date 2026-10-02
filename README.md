@@ -164,18 +164,16 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 <div align="center">
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=Sorush-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    width="49%"
-    height="200"
+    height="150"
   />
   <img
     src="https://streak-stats.demolab.com/?user=Sorush-D&theme=dark&hide_border=false"
-    width="49%"
-    height="200"
+    height="150"
   />
-</div>
+</p>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sorush-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
