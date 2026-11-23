@@ -18,7 +18,7 @@
 
 ---
 
-## `01` · 👋 About
+## · 👋 About
 
 🎓 **Computer Engineering Student** exploring the world of software development through hands-on learning.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## `02` · 🛠️ Tech Stack
+## · 🛠️ Tech Stack
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-## `03` · 🧭 Currently Learning
+## · 🧭 Currently Learning
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `04` · 🚀 Projects
+## · 🚀 Projects
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `05` · 🏆 Certifications
+## · 🏆 Certifications
 
 <div align="center">
 
@@ -160,7 +160,7 @@ Exploring game development with **Unity**, learning how programming, systems, ga
 
 ---
 
-## `06` · 📊 GitHub Activity
+## · 📊 GitHub Activity
 
 <div align="center">
 
